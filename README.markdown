@@ -8,7 +8,7 @@ In Scrabble parlance, a bingo is a play where one gets rid of all seven letters.
 
 Write a program that, given a word list and a cutoff `n`, finds all six-letter stems that combine with `n` or more distinct letters, sorted by greatest number of combinations to least.
 
-If you need a word list to help in developing a solution, you can find Spell Checking Oriented Word Lists (SCOWL) online.
+If you need a word list to help in developing a solution, you can find [Spell Checking Oriented Word Lists (SCOWL)](http://wordlist.aspell.net/) online.
 
 ## Requirements
 
