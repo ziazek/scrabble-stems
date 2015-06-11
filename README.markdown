@@ -69,7 +69,7 @@ The program works, but it seems very inefficient, taking ~ 5 min to run.
         "A": true,
         "E": true,
         "G": true,
-        ...
+        # ... potentially up to 26 combinations
       }
     }
 
